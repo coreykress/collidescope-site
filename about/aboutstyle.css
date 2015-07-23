@@ -11,6 +11,25 @@ h1{
 	margin: 10% auto 10px auto;
 	letter-spacing:.2em;
 }
+
+h3{
+	font-weight: bold;
+	width:300px;
+	height:50px;
+	text-align: center;
+	font-family:'FuturaRennerRegular';
+	margin: 5% auto 1px auto;
+	letter-spacing:.2em;
+}
+p{
+	margin-left:auto;
+	margin-right:auto;
+	max-width: 600px;
+	text-align: center;
+	font-family:'FuturaRennerRegular';
+	font-size: 1em;	
+}
+
 li{
 	text-align: center;
 	text-decoration:none;
@@ -23,7 +42,7 @@ li{
 	height:50px;
 	text-align: center;
 	font-family:'FuturaRennerRegular';
-	margin: 30% auto 10px auto;
+	margin: 20% auto 10px auto;
 	border-style:solid;
 	border-width: 2px;
 }
